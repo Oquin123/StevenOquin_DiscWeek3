@@ -1,8 +1,20 @@
+/** name: Steven Oquin
+class: CMIS 141/6380
+Date: 01/31/2023
+ This program prompts user for their age and displays if they are born before the 1900's, during the 1900's or in the
+ 2000's.
+ **/
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 public class StevenOquin_DiscWeek3 {
 
     public static void main(String[] args) {
+
+        System.out.println("Name: Steven Oquin");
+        System.out.println("Class: CMIS 141/6380");
+        System.out.println("Date: 01/31/2023");
+        System.out.println();
 
         // Creating a int scanner
         Scanner scanint = new Scanner(System.in);
