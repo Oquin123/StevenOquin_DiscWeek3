@@ -30,7 +30,7 @@ public class StevenOquin_DiscWeek3 {
         } catch(InputMismatchException e){
             System.out.println("Invalid input. Please enter a positive whole number.");
         }
-        System.out.println("i just figuered it out");
+        System.out.println("i just figuered it ou");
         scanint.close();
     }
 }
